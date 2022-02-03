@@ -1,0 +1,78 @@
+[
+  {
+    "messages": [
+      {
+        "name": "Adam",
+        "time": "12:34:56",
+        "text": "Hello Bob :) :)"
+      },
+      {
+        "name": "Bob",
+        "time": "12:34:59",
+        "text": "Hi Adam :("
+      },
+      {
+        "name": "Bob",
+        "time": "12:35:01",
+        "text": ":( I have to work on my assignment :( on PIJ"
+      },
+      {
+        "name": "Bob",
+        "time": "12:35:04",
+        "text": ":("
+      },
+      {
+        "name": "Adam",
+        "time": "12:35:56",
+        "text": "Thats sad..."
+      }
+    ],
+    "participants": [
+      "Adam",
+      "Bob"
+    ],
+    "path": "/Users/sebila/Desktop/JavaFXProject.v2 2/src/main/resources/example_msg_files/Conversation-small1.msg",
+    "date": "22/01/2022",
+    "name": "Conversation-small1.msg",
+    "size": 5,
+    "favorite": true
+  },
+  {
+    "messages": [
+      {
+        "name": "Adam",
+        "time": "12:34:56",
+        "text": "Hello Bob :) :)"
+      },
+      {
+        "name": "Bob",
+        "time": "12:34:59",
+        "text": "Hi Adam :("
+      },
+      {
+        "name": "Bob",
+        "time": "12:35:01",
+        "text": ":( I have to work on my assignment :( on PIJ"
+      },
+      {
+        "name": "Bob",
+        "time": "12:35:04",
+        "text": ":("
+      },
+      {
+        "name": "Adam",
+        "time": "12:35:56",
+        "text": "Thats sad..."
+      }
+    ],
+    "participants": [
+      "Adam",
+      "Bob"
+    ],
+    "path": "/Users/sebila/Desktop/JavaFXProject/src/main/resources/example_msg_files/Conversation-small1.msg",
+    "date": "24/01/2022",
+    "name": "Conversation-small1.msg",
+    "size": 5,
+    "favorite": true
+  }
+]
